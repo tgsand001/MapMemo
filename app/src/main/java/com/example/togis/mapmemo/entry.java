@@ -73,4 +73,5 @@ public class entry extends AppCompatActivity {
     }
 }
 
-// GitHUB をテストするためにコメントを書いてファイルを更新してみた　
+// GitHUB をテストするためにコメントを書いてファイルを更新してみた
+
